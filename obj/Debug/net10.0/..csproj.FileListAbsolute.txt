@@ -1,0 +1,14 @@
+H:\Github\Social-Media-C-API\bin\Debug\net10.0\..exe
+H:\Github\Social-Media-C-API\bin\Debug\net10.0\..deps.json
+H:\Github\Social-Media-C-API\bin\Debug\net10.0\..runtimeconfig.json
+H:\Github\Social-Media-C-API\bin\Debug\net10.0\..dll
+H:\Github\Social-Media-C-API\bin\Debug\net10.0\..pdb
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..AssemblyInfoInputs.cache
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..AssemblyInfo.cs
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..csproj.CoreCompileInputs.cache
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..dll
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\refint\..dll
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..pdb
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..genruntimeconfig.cache
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\ref\..dll
