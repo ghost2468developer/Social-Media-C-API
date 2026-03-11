@@ -12,3 +12,4 @@ H:\Github\Social-Media-C-API\obj\Debug\net10.0\refint\..dll
 H:\Github\Social-Media-C-API\obj\Debug\net10.0\..pdb
 H:\Github\Social-Media-C-API\obj\Debug\net10.0\..genruntimeconfig.cache
 H:\Github\Social-Media-C-API\obj\Debug\net10.0\ref\..dll
+H:\Github\Social-Media-C-API\obj\Debug\net10.0\..sourcelink.json
